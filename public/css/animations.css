@@ -13,7 +13,7 @@
 }
 
 
-@keyframes rigth {
+@keyframes right {
     from {
         transform: translateX(-100%);
     }
@@ -37,8 +37,8 @@
     animation-fill-mode: backwards;
 }
 
-.animate-rigth {
-    animation-name: rigth;
+.animate-right {
+    animation-name: right;
     animation-duration: 300ms; 
 }
 
